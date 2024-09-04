@@ -1,7 +1,7 @@
-# Spring-boot
-Spring boot
+# Spring
+Spring
 
 
 
-Here's how the database looks in Postgres:
+Here's how the database looks in DBeaver:
 ![image](https://github.com/dmytro-vasylyshyn-b/Spring-boot/assets/170969064/8649312b-30bf-4b0c-8f75-a3641f6c2183)
